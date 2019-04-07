@@ -1,0 +1,24 @@
+{
+  "name": "fis-optimizer-way2enjoy",
+  "version": "1.0.2",
+  "description": "Compress JPG,PNG,GIF With Way2enjoy",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/way2enjoy2/fis-optimizer-way2enjoy.git"
+  },
+  "keywords": [
+    "fis", "fis3", "minify", "way2enjoy",
+    "jpg", "png", "gif", "image", "compress",
+    "compressor"
+  ],
+  "dependencies": {
+    "request": "*",
+    "colors": "*"
+  },
+  "author": "way2enjoy2 <support@way2enjoy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/way2enjoy2/fis-optimizer-way2enjoy/issues"
+  }
+}
